@@ -1,0 +1,39 @@
+
+log_num_nodes : 20
+edge_factor : 16
+
+gen_type : 0
+obf_type : 0
+send_type : 0
+
+parse_type : 0
+receive_type : 0
+
+to_resp_port : 55555
+to_gen_port : 55556
+ip_address : 127.0.0.1 
+
+gen_rate : -1
+output_interval : 2
+per_packet : 50
+result_buf_size : 8000
+mask_width : 1
+mask_offset : 0
+max_msg_len : 255
+max_uname_size : 50
+num_gen : 1
+
+rand_seed : -1
+min_length : 3
+max_length : 6	
+
+gen_edge_prob : 0.99
+gen_yes_prob : 0.005
+from_path_prob : 0.1	
+
+mrg_seed_1 : 1
+mrg_seed_2 : 2
+
+concentration : 0.5        
+kseed : 678912345
+
