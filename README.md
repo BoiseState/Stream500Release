@@ -103,7 +103,13 @@ to view the test coverage.
 ## Acknowledgements
 * [Graph500 Community](https://graph500.org/)
 * Sandia National Labs
+* National Science Foundation
 
 ## License
 This project is licensed under the [NCSA](https://opensource.org/licenses/NCSA) License - see the [LICENSE](LICENSE) file for details
 
+---
+> This material is based upon work supported by the National Science Foundation under Grant Number 1641774.
+
+> Disclaimer : Any opinions, findings, and conclusions or recommendations expressed in this material are those of the author(s) and do not necessarily reflect the views of the National Science Foundation.
+---
